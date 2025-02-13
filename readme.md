@@ -26,7 +26,7 @@ This is a 2D space shooter game developed as a group project for CSE423: Compute
 3.  **Clone the Repository:** Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/ranak8811/Space-Shooter-2D-Game.git
+    git clone https://github.com/ranak8811/Space-Shooter-2D-Game-CSE423.git
     cd Space-Shooter-2D-Game
     ```
 
