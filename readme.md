@@ -17,7 +17,7 @@ This is a 2D space shooter game developed as a group project for CSE423: Compute
 ## How to Run
 
 1.  **Install Python:** If you don't have Python installed, download and install the latest version from [python.org](https://www.python.org/).
-2.  **Install Dependencies:** Open your terminal or command prompt and install the required libraries using pip:
+2.  **Install Dependencies:** Open your terminal or command prompt and install the required libraries using pip (first try to run the game without installing this package) :
 
     ```bash
     pip install pyopengl pyopengl-accelerate
@@ -26,14 +26,14 @@ This is a 2D space shooter game developed as a group project for CSE423: Compute
 3.  **Clone the Repository:** Clone the repository to your local machine:
 
     ```bash
-    git clone [https://github.com/ranak8811/Space-Shooter-2D-Game.git](https://www.google.com/search?q=https://github.com/ranak8811/Space-Shooter-2D-Game.git)
+    git clone https://github.com/ranak8811/Space-Shooter-2D-Game.git
     cd Space-Shooter-2D-Game
     ```
 
 4.  **Run the Game:** Ensure the `OpenGL.py` file (shared in the repository) is in the same directory as the main script. Then, run the game using:
 
     ```bash
-    python OpenGL.py
+    python game.py
     ```
 
 ## How to Play
@@ -121,9 +121,9 @@ The code is organized into several functions and utilizes key modules:
 
 ## Team Members
 
-- Md. Anwar Hossain (https://github.com/ranak8811)
-- Asir Radnan (https://github.com/asiradnan)
-- Ramisa Anjum (https://github.com/Ramisa-Anjum3)
+- [Md. Anwar Hossain] (https://github.com/ranak8811)
+- [Asir Radnan] (https://github.com/asiradnan)
+- [Ramisa Anjum] (https://github.com/Ramisa-Anjum3)
 
 ## Future Improvements
 
